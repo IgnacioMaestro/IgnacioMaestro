@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgnacioMaestro
 - 👀 I’m interested in software quality
-- 🌱 I’m currently learning System arquitectures
+- 🌱 I’m currently learning software arquitectures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
